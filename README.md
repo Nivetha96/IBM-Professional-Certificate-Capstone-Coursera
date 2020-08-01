@@ -30,4 +30,16 @@ In this module, you will learn about what happens when a model is deployed and w
 ## Cours-4: Python For Data Science
 This course will take you from zero to programming in Python in a matter of hours—no prior programming experience necessary! You will learn Python fundamentals, including data structures and data analysis, complete hands-on exercises throughout the course modules, and create a final project to demonstrate your new skills. 
 By the end of this course, you’ll feel comfortable creating basic programs, working with data, and solving real-world problems in Python. You’ll gain a strong foundation for more advanced learning in the field, and develop skills to help advance your career. 
+### Final Assignment Link : https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/5565a521-7239-46e7-97ae-9115a6caeefd/view?access_token=8a8ff44ea89b137317bdaa1628724c0e0d1d6ddbdc015fe30ebaf2731c787c94
+
+## Course-5: Databases and SQL for Data Science
+### Introduction to Databases and Basic SQL
+In Week 1 you will be introduced to databases. You will create a database instance on the cloud. You will learn some of the basic SQL statements. You will also write and practice basic SQL hands-on on a live database.
+### Advanced SQL
+By the end of this module, you will learn the following: (1) Learn how to use string patterns and ranges to search data and how to sort and group data in result sets. (2) Learn how to work with multiple tables in a relational database using join operations.
+### Accessing Databases using Python
+After completing the lessons in this week, you will learn how to explain the basic concepts related to using Python to connect to databases and then create tables, load data, query data using SQL, and analyze data using Python
+### Course Assignment
+As a hands-on Data Science assignment, you will be working with multiple real world datasets for the city of Chicago. You will be asked questions that will help you understand the data just like a data scientist would. You will be assessed both on the correctness of your SQL queries and results.
+
 
