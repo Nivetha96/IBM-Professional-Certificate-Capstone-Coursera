@@ -80,4 +80,12 @@ In this module, you will learn about recommender systems. First, you will get in
 ### Final Project
 In this module, you will do a project based of what you have learned so far. You will submit a report of your project for peer evaluation.
 
-
+## Course-9: Applied Data Science Capstone
+### Introduction
+In this module, you will learn about the scope of this capstone course and the context of the project that you will be working on. You will learn about different location data providers and what location data is normally composed of. Finally, you will be required to submit a link to a new repository on your Github account dedicated to this course.
+### Foursquare API
+In this module, you will learn in details about Foursquare, which is the location data provider we will be using in this course, and its API. Essentially, you will learn how to create a Foursquare developer account, and use your credentials to search for nearby venues of a specific type, explore a particular venue, and search for trending venues around a location.
+### Neighborhood Segmentation and Clustering
+In this module, you will learn about k-means clustering, which is a form of unsupervised learning. Then you will use clustering and the Foursquare API to segment and cluster the neighborhoods in the city of New York. Furthermore, you will learn how to scrape website and parse HTML code using the Python package Beautifulsoup, and convert data into a pandas dataframe.
+### The Battle of Neighborhoods
+In this module, you will start working on the capstone project. You will clearly define a problem and discuss the data that you will be using to solve the problem.
