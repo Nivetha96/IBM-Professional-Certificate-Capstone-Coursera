@@ -89,3 +89,7 @@ In this module, you will learn in details about Foursquare, which is the locatio
 In this module, you will learn about k-means clustering, which is a form of unsupervised learning. Then you will use clustering and the Foursquare API to segment and cluster the neighborhoods in the city of New York. Furthermore, you will learn how to scrape website and parse HTML code using the Python package Beautifulsoup, and convert data into a pandas dataframe.
 ### The Battle of Neighborhoods
 In this module, you will start working on the capstone project. You will clearly define a problem and discuss the data that you will be using to solve the problem.
+
+Report Link - https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/cb552889-9219-46b8-95fc-1bb8903a417a?projectid=bb44aadf-7788-4568-a77c-1dc6d790f994&context=cpdaas
+
+Notebook Link - https://colab.research.google.com/drive/1owUzKyjS4aDL6ize6WZvWwGlTSWBNC8N?usp=sharing
