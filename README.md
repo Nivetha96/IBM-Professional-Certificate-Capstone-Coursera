@@ -65,3 +65,19 @@ In this module, you will learn about data visualization and some of the best pra
 In this module, you learn about area plots and how to create them with Matplotlib, histograms and how to create them with Matplotlib, bar charts, and how to create them with Matplotlib, pie charts, and how to create them with Matplotlib, box plots and how to create them with Matplotlib, and scatter plots and bubble plots and how to create them with Matplotlib.
 ### Advanced Visualizations and Geospatial Data
 In this module, you will learn about advanced visualization tools such as waffle charts and word clouds and how to create them. You will also learn about seaborn, which is another visualization library, and how to use it to generate attractive regression plots. In addition, you will learn about Folium, which is another visualization library, designed especially for visualizing geospatial data. Finally, you will learn how to use Folium to create maps of different regions of the world and how to superimpose markers on top of a map, and how to create choropleth maps.
+
+## Course-8: Machine Learning with Python
+### Introduction to Machine Learning
+In this week, you will learn about applications of Machine Learning in different fields such as health care, banking, telecommunication, and so on. You’ll get a general overview of Machine Learning topics such as supervised vs unsupervised learning, and the usage of each algorithm. Also, you understand the advantage of using Python libraries for implementing Machine Learning models.
+### Regression
+In this week, you will get a brief intro to regression. You learn about Linear, Non-linear, Simple and Multiple regression, and their applications. You apply all these methods on two different datasets, in the lab part. Also, you learn how to evaluate your regression model, and calculate its accuracy.
+### Classification
+In this week, you will learn about classification technique. You practice with different classification algorithms, such as KNN, Decision Trees, Logistic Regression and SVM. Also, you learn about pros and cons of each method, and different classification accuracy metrics.
+### Clustering
+In this section, you will learn about different clustering approaches. You learn how to use clustering for customer segmentation, grouping same vehicles, and also clustering of weather stations. You understand 3 main types of clustering, including Partitioned-based Clustering, Hierarchical Clustering, and Density-based Clustering.
+### Recommender Systems
+In this module, you will learn about recommender systems. First, you will get introduced with main idea behind recommendation engines, then you understand two main types of recommendation engines, namely, content-based and collaborative filtering.
+### Final Project
+In this module, you will do a project based of what you have learned so far. You will submit a report of your project for peer evaluation.
+
+
